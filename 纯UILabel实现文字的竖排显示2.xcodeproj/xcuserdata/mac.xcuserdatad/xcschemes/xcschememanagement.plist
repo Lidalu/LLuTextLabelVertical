@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>纯UILabel实现文字的竖排显示2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>046DD3501C4E2FF80083A375</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>046DD3691C4E2FF80083A375</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>046DD3741C4E2FF90083A375</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
